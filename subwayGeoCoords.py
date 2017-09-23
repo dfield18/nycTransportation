@@ -1,3 +1,4 @@
+# this script finds geo-coordinates of each subway station
 import requests
 from bs4 import BeautifulSoup
 from geopy.geocoders import Nominatim
